@@ -28,6 +28,8 @@ https://precisionnutrition.atlassian.net/browse/XX-123
 ### Author Checklist
 <!--Your responsibilities as the Author-->
 
+- [ ] I have run `bors try` (Ember apps)
+
 - Author wrote tests for the changes
 - Selected a team in the Reviewers drop-down to auto-assign reviewers
 - Selected one of the reviewers as the Assignee to be the primary reviewer
